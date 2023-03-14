@@ -1,0 +1,1 @@
+# katalon_platform
