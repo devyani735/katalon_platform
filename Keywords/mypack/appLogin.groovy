@@ -23,25 +23,25 @@ import internal.GlobalVariable
 public class appLogin {
 
 	@Keyword
-	
-public void getlogin() {
-	int a=2
-	for(int i=0;i<=2;i++) {
-		if(a==2) {
 
-			WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_user-name'), 'standard_user')
+	public void getlogin() {
+		int a=2
+		for(int i=0;i<=2;i++) {
+			if(a==2) {
 
-			WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_password'), 'secret_sauce')
+				WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_user-name'), 'standard_user')
 
-			WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_login-button'))
+				WebUI.setText(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_password'), 'secret_sauce')
 
-			WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Open Menu'))
+				WebUI.click(findTestObject('Object Repository/Page_Swag Labs/input_Swag Labs_login-button'))
 
-			WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_Logout'))
-		}
-		else {
-			System.out.println("if failed")
+				WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_Open Menu'))
+
+				WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_Logout'))
+			}
+			else {
+				System.out.println("if failed")
+			}
 		}
 	}
-}
 }
