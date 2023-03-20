@@ -19,5 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 WebUI.navigateToUrl('https://www.saucedemo.com/')
+
 CustomKeywords.'mypack.appLogin.getlogin'()
 WebUI.closeBrowser()

@@ -6,12 +6,12 @@
    <elementGuidId>2fac6f1f-95df-484a-b915-a6c2e110666e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='react-burger-menu-btn']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#react-burger-menu-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='react-burger-menu-btn']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>aca6b217-d75e-4db8-9549-ece6fd91b395</webElementGuid>
+      <webElementGuid>fe31265e-66d2-4517-8ca4-bf8a566a1ee4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-burger-menu-btn</value>
-      <webElementGuid>ff321d17-c0ab-45b9-8740-fa21d4a37f44</webElementGuid>
+      <webElementGuid>4fef1366-fe63-4853-a72a-6238fa1ea360</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Open Menu</value>
-      <webElementGuid>0190ea29-9020-4f29-bbf0-03508774e0e4</webElementGuid>
+      <webElementGuid>28046e75-8d0f-4074-b937-f869fb171c1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-burger-menu-btn&quot;)</value>
-      <webElementGuid>0d9586f6-cb7a-471e-923e-415add0e1893</webElementGuid>
+      <webElementGuid>c2d90768-4753-4dfd-835d-9c0a49305fe6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='react-burger-menu-btn']</value>
-      <webElementGuid>21711f39-1055-4776-85ac-a858798d9b75</webElementGuid>
+      <webElementGuid>6706ab07-4d5e-4db5-b02c-ab57ba66263e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='menu_button_container']/div/div/div/button</value>
-      <webElementGuid>069e31e8-497e-40cf-b0aa-6c98f7764ef7</webElementGuid>
+      <webElementGuid>be3881c3-1d59-4f67-8e3a-389624cca422</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/preceding::button[1]</value>
-      <webElementGuid>d25b8a85-0e5d-44af-b2cc-3b3cc630120a</webElementGuid>
+      <webElementGuid>0ee8d2d2-cbdb-4cef-8174-63ce1a95e58b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[1]/preceding::button[1]</value>
-      <webElementGuid>b6c9b625-db5e-4e2a-a921-a535f7ac128c</webElementGuid>
+      <webElementGuid>d287d075-a47b-4e6d-9550-3a48c7bc549a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Open Menu']/parent::*</value>
-      <webElementGuid>f32526a9-6810-4b54-95ea-efa6884ec7cc</webElementGuid>
+      <webElementGuid>ddce35a7-2fd1-44de-95dd-a34e86613e53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>a649a2da-a618-4642-93b5-1eb5ffb18621</webElementGuid>
+      <webElementGuid>0448c80d-5d1a-4e89-b8fb-87d7e3f1a46f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'react-burger-menu-btn' and (text() = 'Open Menu' or . = 'Open Menu')]</value>
-      <webElementGuid>fd1f5cf4-3fd5-4206-b6bc-c70ddf5f5dea</webElementGuid>
+      <webElementGuid>795dc3d7-9514-4414-86c2-4b3e1c6f574d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

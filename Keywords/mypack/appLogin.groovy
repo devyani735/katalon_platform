@@ -40,6 +40,7 @@ public class appLogin {
 				WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_Logout'))
 			}
 			else {
+				
 				System.out.println("if failed")
 			}
 		}

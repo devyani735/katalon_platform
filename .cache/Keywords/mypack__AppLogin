@@ -1,16 +1,15 @@
 {
-  "keywordFileContentHash": "32C4F9FC7C965633C62306A2AB252442",
+  "keywordFileContentHash": "3EB051F5D0C74F9E1C3AAA517B024F6E",
   "keywordClasses": [
     {
       "name": "mypack.appLogin",
       "keywordMethods": [
         {
           "name": "getlogin",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }
